@@ -1,0 +1,6 @@
+{
+  "name": "Predictor - HACK LIONS",
+  "description": "Predictor activation portal and code generator interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
